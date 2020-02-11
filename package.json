@@ -1,0 +1,26 @@
+{
+  "name": "thai-lucky-car-license-plate-calculator",
+  "version": "1.0.0",
+  "description": "### simple Node.JS program to filter lucky license number from input list",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirawatp/thai-lucky-car-license-plate-calculator.git"
+  },
+  "keywords": [
+    "lucky",
+    "car",
+    "license",
+    "plat",
+    "calculator"
+  ],
+  "author": "jirawat pattanayutanachot <jirawat.p@cout-dev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirawatp/thai-lucky-car-license-plate-calculator/issues"
+  },
+  "homepage": "https://github.com/jirawatp/thai-lucky-car-license-plate-calculator#readme"
+}
